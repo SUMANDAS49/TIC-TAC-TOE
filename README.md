@@ -1,2 +1,2 @@
 # TIC-TAC-TOE
-My first pojext on Github platform
+My first poject on Github platform
